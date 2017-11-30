@@ -1,2 +1,1 @@
-# CleanCity
-Clean City
+# Clean City - Чистый Город
